@@ -1,5 +1,7 @@
 # Company Search Application
 
+A React-based search application that allows users to search through company data and their associated information. The application provides a clean, modern interface for searching and viewing company details, financial information, and other relevant data.
+
 ## Features
 
 - 🔍 Real-time search functionality with minimum 3 characters requirement
@@ -32,8 +34,8 @@
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd company-search-app
+git clone git@github.com:smasenov/company-search-app-cooolbox.git
+cd company-search-app-cooolbox
 ```
 
 2. Install dependencies:
